@@ -8,5 +8,4 @@ Pueden hacer lo que quieran...
 ahora cambio en local
 
 ### Actualizado desde GitHub
-Esto lo actualice desde aqui
-y agregue mas lineas para probar el pull con configuracion de pull.ff only
+Actualizo README desde github
