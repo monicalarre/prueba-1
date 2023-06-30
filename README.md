@@ -8,3 +8,4 @@ Pueden hacer lo que quieran...
 
 ### Actualizado desde GitHub
 Esto lo actualice desde aqui
+y agregue mas lineas para probar el pull con configuracion de pull.ff only
